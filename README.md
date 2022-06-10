@@ -16,8 +16,9 @@ Pre-preparation steps
 
 Visuals
 
-!(<img width="394" alt="Outlet Item Sales" src="https://user-images.githubusercontent.com/103530342/172995341-51afd796-fd0e-4ed1-9453-e096e9ecd050.png">)
-#This is a histogram of the outlet item sales. It is important to the predictions of sales because it shows us how many sales each item has by the outlet.
+!(<img width="596" alt="Screen Shot 2022-06-10 at 4 02 31 PM" src="https://user-images.githubusercontent.com/103530342/173160886-dc888166-28be-4a67-a1ac-38417ec36224.png">)
+#This is a histogram of the outlet item sales. It is important to the predictions of sales because it shows the distribution of outlet sales.
+
 
 !(<img width="456" alt="Screen Shot 2022-06-09 at 11 18 35 PM" src="https://user-images.githubusercontent.com/103530342/173002927-4e86bb3a-3f96-4804-829a-9dc5a66976e4.png">)
 #This is a histogram of the outlet location type. This is import to the predictions of sales because it matters as to where the location of the store is. People choose convenience when it comes to the location, as we can see in the graph.
